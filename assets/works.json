@@ -1,0 +1,49 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "title" : "Rumah Vokasi Web",
+            "slug": "rumah_vokasi_web",
+            "year": "2022",
+            "result_link": "https://rumahvokasi.com",
+            "image_url": "/images/works/rumahvokasi.png",
+            "description": "Rumah Vocational Web is a website-based online learning that implements the concept of blended learning learning design, combining online and offline learning in a more practical, interactive way."
+        },
+        {
+            "id" : 2,
+            "title" : "Rumah Vokasi App",
+            "slug": "rumah_vokasi_app",
+            "year": "2022",
+            "result_link": "https://play.google.com/store/apps/details?id=com.project.rumahvokasi2022.dev",
+            "image_url": "/images/works/rumahvokasiapp.png",
+            "description": "Rumah Vocational App is a android app-based online learning that implements the concept of blended learning learning design, combining online and offline learning in a more practical, interactive way."
+        },
+        {
+            "id" : 3,
+            "title" : "Dimensi Pesantren Web",
+            "slug": "dimensi_pesantren_web",
+            "year": "2021",
+            "result_link": "https://dimensipesantren.com",
+            "image_url": "/images/works/dimensipesantren.png",
+            "description": "Dimensions of web boarding schools are a website platform for providing Socio-Digital services to the world of Islamic boarding schools. Digital media that becomes the liaison between the general public and Islamic boarding school curriculum education."
+        },
+        {
+            "id" : 4,
+            "title" : "Dimensi Pesantren App",
+            "slug": "dimensi_pesantren_app",
+            "year": "2021",
+            "result_link": "https://play.google.com/store/apps/details?id=com.project.dimensipesantren.dev",
+            "image_url": "/images/works/dimensipesantren.png",
+            "description": "The Pesantren Dimension app is an android app platform for the Socio-Digital service provider in the world of Islamic boarding schools. Digital media that becomes the liaison between the general public and Islamic boarding school curriculum education."
+        },
+        {
+            "id" : 5,
+            "title" : "I-Kaigi Conference Web",
+            "slug": "i-kaigi_conference_web",
+            "year": "2021",
+            "result_link": "https://i-kaigi.com",
+            "image_url": "/images/works/I-KAIGI.png",
+            "description": "I-kaigi web is a web system designed for conference management."
+        }
+    ]
+}
